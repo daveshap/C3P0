@@ -200,7 +200,7 @@ contributions.
 
 
 
-VII. Time-Wasting Behaviors: Identifying Noise
+VII. Time-Wasting Behaviors: Reducing Noise
 
 The C3P0 defines certain behaviors as 'noise' within our community, which
 tend to detract from the quality of interactions and waste the valuable

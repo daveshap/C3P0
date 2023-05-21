@@ -186,7 +186,7 @@ promoting a high signal-to-noise ratio, we aim to nurture a collaborative
 environment marked by meaningful engagement, mutual respect, and valuable
 contributions.
 
-## VII. Time-Wasting Behaviors: Identifying Noise
+## VII. Time-Wasting Behaviors: Reducing Noise
 
 The C3P0 defines certain behaviors as 'noise' within our community, which
 tend to detract from the quality of interactions and waste the valuable
